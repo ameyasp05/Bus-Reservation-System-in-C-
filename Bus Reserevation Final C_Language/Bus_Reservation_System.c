@@ -67,7 +67,7 @@ void bus()
 {
     system("cls");
     printf("\n\n\n");
-    printf("=========================================== BUS RESERVATION SYSTEM ============================================\n\n\n");
+    printf("=========================================== BUS RESERVATION SYSTEM =============================================\n\n\n");
     printf("\t\t\t\t\t[1]  =>  %s\n",ch[0]);
     printf("\n");
     printf("\t\t\t\t\t[2]  =>  %s\n",ch[1]);
